@@ -1,5 +1,10 @@
+跳转链接
+[]()
 [给湖北 俺的哦弟弟](https://github.com/Super-Pentagon/p01_android_proj)
 
+图片
+![]()
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626161627706.png)
 
 # 一、主页
 
