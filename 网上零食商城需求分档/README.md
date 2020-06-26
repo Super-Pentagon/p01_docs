@@ -1,4 +1,4 @@
-一、主页
+# 一、主页
 
 在点开APP时直接映入眼帘的界面
 
@@ -34,7 +34,7 @@
 
  
 
-二、搜索界面
+# 二、搜索界面
 
 输入相应的商品名字来查找商品（可以根据历史记录和推荐查找来搜索）
 
@@ -60,19 +60,13 @@
 
  
 
- 
-
- 
-
- 
-
-三、搜索结果界面
+# 三、搜索结果界面
 
 根据搜索界面搜索框输入的关键词，跳转的结果界面
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps3.jpg)    ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps4.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626162749325.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626162825684.png)
 
-附图1
+​                                                                                 附图1
 
  
 
@@ -90,7 +84,7 @@
 
  
 
- 
+
 
  
 
@@ -98,21 +92,13 @@
 
  
 
- 
-
- 
-
- 
-
- 
-
-四、商品详情界面
+# 四、商品详情界面
 
 商品得具体信息，包括图片，月销售，单价，详情，购买数量以及结算的按钮
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps5.jpg)   ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps6.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163237630.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163322612.png)
 
-​                            附图2
+​                                                                                     附图2
 
  
 
@@ -140,11 +126,11 @@
 
  
 
-五、订单界面
+# 五、订单界面
 
 能查看到自己的历史订单，以及正在配送的订单
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps7.jpg)   ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps8.jpg)
+​      ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163500718.png)   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163524190.png)
 
 ​                             附图 3
 
@@ -172,19 +158,19 @@
 
  
 
-六、购物车界面
+# 六、购物车界面
 
 显示添加到购物车的商品，填写个人信息，管理加入购物车的商品
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps9.jpg)   ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps10.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163605340.png)   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163646566.png)
 
-​       附图4
+​                                                                                          附图4
 
  
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps11.jpg) 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062616372085.png) 
 
-​        附图5
+​                        附图5
 
  
 
@@ -214,11 +200,13 @@
 
  
 
-七、“我的界面”
+
+
+# 七、“我的界面”
 
 个人界面，实行登录操作
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps12.jpg) 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163809242.png) 
 
 界面说明：
 
@@ -240,25 +228,17 @@
 
  
 
- 
-
- 
-
-八、登陆界面
+# 八、登陆界面
 
 用户执行登录操作
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps13.jpg)   ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps14.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163836289.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626163845236.png)
 
-​           附图6
+​                                                                                     附图6
 
- 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062616385591.png)
 
- 
-
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps15.jpg) 
-
-​      附图7
+​                                                                                                                                    附图7
 
 界面说明：
 
@@ -282,25 +262,19 @@
 
  
 
- 
+
 
  
 
- 
-
- 
-
- 
-
-九、忘记密码界面
+# 九、忘记密码界面
 
 用于用户记得自己账号，但是忘记了密码
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps16.jpg)      ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps17.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164104543.png)      ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164154111.png)
 
-​                         附图8
+​                                                                      附图8
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps18.jpg) 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164221914.png)
 
 ​      附图9
 
@@ -322,85 +296,19 @@
 
  
 
- 
+
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-十、重置密码页
+# 十、重置密码页
 
 用户在忘记密码页操作成功之后，在此界面重置原有注册的密码
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps19.jpg)        ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps20.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164637777.png)        ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164706682.png)
 
 ​                            附图10
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps21.jpg) 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164721733.png)
 
 ​    附图11
 
@@ -420,87 +328,23 @@
 
  
 
- 
+
 
  
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-十一、注册界面
+# 十一、注册界面
 
 用户没有注册过该APP，注册账号以良好使用
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps22.jpg)         ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps23.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164748227.png)         ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164802801.png)
 
-​                           附图12
+​                                                                 附图12
 
-![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps24.jpg)        ![img](file:///C:\Users\15282\AppData\Local\Temp\ksohtml12920\wps25.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164816994.png)        ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200626164830454.png)
 
-​      附图13                    附图14
+​                    附图13                                           附图14
 
 界面说明：
 
